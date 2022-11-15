@@ -6,8 +6,8 @@ var nombre = "Campos";
 
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 30;
-let a = 5;
+const nuevoNum = 15;
+let a = 2;
 
 // Crea una variable booleana:
 const nuevoBool = false;
